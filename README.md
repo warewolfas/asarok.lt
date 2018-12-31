@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
-<div id="text"></div>
-<script language="javascript" src="https://track.adform.net/adfscript/?bn=26387620"></script>
+
 
 ### Markdown
 
