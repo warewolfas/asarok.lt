@@ -10,7 +10,7 @@
 
 <form action="https://formspree.io/asaroklt@gmail.com" method="POST">
   Gyvenime daznai nutinka taip, kad norisi tiesiog verkti. Neverkite, geriau iveskite savo skunda i sia forma:<br>
-  
-  <textarea name="message" placeholder="Skundas"></textarea>
+  <input type="email" name="email" placeholder="Jusu email"><br>
+  <textarea name="message" placeholder="Skundas"></textarea><br>
   <button type="submit">Siusti</button>
 </form>
