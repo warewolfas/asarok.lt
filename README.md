@@ -8,8 +8,9 @@
   gtag('config', 'UA-133904759-1');
 </script>
 
-<form action="https://formspree.io/warewolfas@gmail.com" method="POST">
-  <input type="email" name="email" placeholder="Your email">
-  <textarea name="message" placeholder="Test Message"></textarea>
-  <button type="submit">Send Test</button>
+<form action="https://formspree.io/asaroklt@gmail.com" method="POST">
+  Gyvenime daznai nutinka taip, kad norisi tiesiog verkti. Neverkite, geriau iveskite savo skunda i sia forma:<br>
+  
+  <textarea name="message" placeholder="Skundas"></textarea>
+  <button type="submit">Siusti</button>
 </form>
