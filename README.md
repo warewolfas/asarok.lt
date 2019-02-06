@@ -6,7 +6,7 @@
 <script>
 function myFunction() {
   <!-- :feelsbadman: -->
-    document.getElementById("knopke").value = "";
+    document.getElementById("skundas").value = "";
 }
 </script>
   
