@@ -10,7 +10,7 @@
 
 <form>
   Gyvenime daznai nutinka taip, kad norisi tiesiog verkti. Neverkite, geriau iveskite savo skunda i sia forma:<br>
-  <textarea id="skundas" type="text" name="skundas"><br>
+  <textarea id="skundas" type="text" name="skundas"></textarea><br>
  <button type="button" id="knopke" onclick="myFunction()">Patalpinti</button>
 
 <script>
