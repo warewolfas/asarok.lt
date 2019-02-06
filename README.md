@@ -11,7 +11,9 @@
 <form>
   Gyvenime daznai nutinka taip, kad norisi tiesiog verkti. Neverkite, geriau iveskite savo skunda i sia forma:<br>
   <textarea id="skundas" type="text" name="skundas"></textarea><br>
- <button type="button" id="knopke" onclick="myFunction()">Patalpinti</button>
+ 
+ 
+<button type="button" id="knopke" onclick="myFunction()">Patalpinti</button>
 
 <script>
 function myFunction() {
@@ -19,5 +21,12 @@ function myFunction() {
     document.getElementById("skundas").value = "";
 }
 </script>
+  
+  <form action="https://formspree.io/warewolfas@gmail.com" method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form>
+  
   
 </form>
